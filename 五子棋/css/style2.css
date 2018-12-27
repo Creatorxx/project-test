@@ -1,0 +1,21 @@
+
+body{
+    margin:0;
+    padding:0;
+}
+#bg1{
+    display: block;
+    height:100%;
+    width: 100%;
+    
+}
+#bg2{
+    position: fixed;
+    top:200px;
+    left:900px;
+}
+#start{
+    position: fixed;
+    top:550px;
+    left:800px;
+}
